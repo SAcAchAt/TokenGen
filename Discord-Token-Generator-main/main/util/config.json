@@ -1,0 +1,10 @@
+{
+    "invite_code": "",
+    "sms_key" "your 5sim api key"
+    "api_key": "your anti-captcha api key",
+    "captcha_solver": "anti-captcha.com",
+    "sms_solver": "5sim.net",    
+    "username": "realistic",
+    "threads": 100,
+    "avatar": true
+}
